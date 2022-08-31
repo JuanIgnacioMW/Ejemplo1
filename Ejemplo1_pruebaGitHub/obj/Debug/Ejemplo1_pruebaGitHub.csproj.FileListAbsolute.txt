@@ -1,0 +1,8 @@
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\bin\Debug\Ejemplo1_pruebaGitHub.exe
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\bin\Debug\Ejemplo1_pruebaGitHub.pdb
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.Form1.resources
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.Properties.Resources.resources
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.exe
+C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.pdb
