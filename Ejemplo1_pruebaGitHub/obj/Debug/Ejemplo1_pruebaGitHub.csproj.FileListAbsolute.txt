@@ -6,3 +6,5 @@ C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pru
 C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.csproj.GenerateResource.Cache
 C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.exe
 C:\Users\usuario\Desktop\pendrive23-08\Prueba\Ejemplo1_pruebaGitHub\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.pdb
+C:\Users\usuario\Documents\GitHub\Ejemplo1\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.exe
+C:\Users\usuario\Documents\GitHub\Ejemplo1\Ejemplo1_pruebaGitHub\obj\Debug\Ejemplo1_pruebaGitHub.pdb
