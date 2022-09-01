@@ -15,5 +15,10 @@ namespace Ejemplo1_pruebaGitHub
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
